@@ -1,0 +1,16 @@
+{
+  "name": "aessetup",
+  "version": "1.0.0",
+  "description": "Trial the Encrypt Decrypt for AES algorithm from BPJS E-Klaim",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node aes_128_cbc_iv.js"
+  },
+  "author": "Adam Fahmil",
+  "license": "ISC",
+  "dependencies": {
+    "binascii": "0.0.2",
+    "crypto-js": "^4.1.1"
+  }
+}
