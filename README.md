@@ -36,3 +36,4 @@ npm run start
 ## References
 
 [Encrypt/Decrypt Data between Python 3 and JavaScript (AES algorithm)](https://medium.com/@sachadehe/encrypt-decrypt-data-between-python-3-and-javascript-true-aes-algorithm-7c4e2fa3a9ff)
+[Cryptography with Python - Overview](https://www.tutorialspoint.com/cryptography_with_python/cryptography_with_python_quick_guide.htm)
