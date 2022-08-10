@@ -10,7 +10,7 @@ First, we have to install the packages.
 
 ```python
 python -m venv env
-pip install requirement.txt
+pip install -r requirement.txt
 ```
 
 ### JavaScript (NodeJS)
