@@ -1,7 +1,7 @@
 {
   "name": "aessetup",
   "version": "1.0.0",
-  "description": "Trial the Encrypt Decrypt for AES algorithm from BPJS E-Klaim",
+  "description": "Trial the Encrypt Decrypt for AES algorithm",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

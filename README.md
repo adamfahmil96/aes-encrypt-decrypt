@@ -19,6 +19,24 @@ pip install requirement.txt
 npm install
 ```
 
+## Step-by-step
+
+### Encryption
+
+Markup  : 1. Applying standard padding
+          2. Create new AES Cipher using MODE CBC and fix value of iv (initialization vector)
+          3. Do encryption
+          4. Reverse the result of encryption
+          5. Return the result with type result is string
+
+### Decryption
+
+Markup  : 1. Reverse the result of encryption (type: string)
+          2. Decode the encryption
+          3. Create new AES Cipher using MODE CBC and fix value of iv
+          4. Remove the padding
+          5. Return the result with type result is string
+
 ## Usage
 
 For Python, enter the virtual environment first, then run python file
